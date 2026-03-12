@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "7L_SMP_is_real.aternos.me",
-    "port": 62213,
+    "ip": "GoatSMP001.aternos.me",
+    "port": 53123,
     "version": "",
     "try-creative": false
   },
